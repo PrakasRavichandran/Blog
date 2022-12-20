@@ -48,7 +48,7 @@ function about({ topics }) {
             <FaInstagram />
             <a
               className="ml-4 text-gray-50"
-              href="https://www.instagram.com/praashravichandrann/"
+              href="https://www.instagram.com/prakashravichandrann/"
               rel="noopener noreferrer"
               target="_blank"
             >
